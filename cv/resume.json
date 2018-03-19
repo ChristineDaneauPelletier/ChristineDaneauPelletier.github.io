@@ -1,0 +1,229 @@
+{
+  "basics": {
+    "name": "Christine Daneau-Pelletier",
+    "label": "Intégratrice - Designer Web",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAMAAgDuAAgAAQAAAAAAABHKAAAAJGQxNjZmNDZiLWNiMzUtNDE3YS05NThjLTJmODcxNzU4ZjdmNg.bin",
+    "email": "christine.daneau.pelletier@gmail.com",
+    "phone": "581 309-4229",
+    "website": "https://timblogues2017christinedaneaupelletier.wordpress.com/",
+    "summary": "Passionnée d'intégration et de multimédia, j'aimerais utiliser ma riche expérience en enseignement pour apporter une vision différente de la communication. Je suis ouverte à apprendre et à l'écoute des besoins pour favoriser le travail d'équipe. Organisée et autodidacte, je suis soucieuse d'offrir un travail de qualité. Aussi, maîtrisant bien les logiciels d 'intégration (Front-End), j'ai hâte de mettre à l'épreuve mes compétences.",
+    "location": {
+      "address": "1847 avenue Drouin",
+      "postalCode": "G1E 3W3",
+      "city": "Québec",
+      "countryCode": "CA",
+      "region": "Beauport"
+    },
+    "profiles": [
+      {
+        "network": "wordpress",
+        "username": "christinedaneaupelletier",
+        "url": "https://timblogues2017christinedaneaupelletier.wordpress.com/"
+      },
+      {
+        "network": "linkedin",
+        "username": "Christine Daneau-Pelletier",
+        "url": "https://www.linkedin.com/in/christine-daneau-pelletier-01113a114/"
+      },
+      {
+        "network": "pinterest",
+        "username": "DaneauPelletierC",
+        "url": "https://www.pinterest.ca/DaneauPelletierC/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "Enseignante en musique (suppléance et contrat)",
+      "website": "",
+      "startDate": "2011-06",
+      "endDate": "",
+      "summary": "CSDPS - CSDN - CSDD - CSS",
+      "highlights": [
+        "Planifier, organiser et animer des situations d’apprentissage et d’évaluation de la musique;",
+        "Prise en charge de 5 groupes du 3e cycle du primaire;",
+        "Gérer l'orchestre d'harmonie scolaire au primaire;"
+      ]
+    },
+    {
+      "company": "Ensemble Vent et percussion de Québec (EVPQ)",
+      "position": "Clarinettiste",
+      "website": "http://www.evpq.ca/",
+      "startDate": "2016-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Planifier rigoureusement du temps de pratique personnelle; ",
+        "Travaille sous pression : trois pratiques intensives, générale, puis 1 ou 2 concerts selon la saison;",
+        "Cinq concerts par année."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Les Productions du Sixième Art",
+      "position": "Clarinettiste",
+      "website": "http://www.sixiemeart.com",
+      "startDate": "2013-09",
+      "endDate": "2017-05",
+      "summary": "",
+      "highlights": [
+        "Préparation d'une grade quantité de partitions pour une comédie musicale;",
+        "Trois à cinq répétitions d'ensemble;",
+        "Enregistrement en studio."
+      ]
+    },
+    {
+      "organization": "Hema-Québec",
+      "position": "Donneur",
+      "website": "Hema-Quebec.qc.ca",
+      "startDate": "2008-09",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Deux à quatre dons de sang, de plaquettes ou de plasma par année."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cégep de Sainte-Foy",
+      "area": "Technique ",
+      "studyType": "Intégration Multimédia - Web Apps",
+      "startDate": "2017-09",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "Intégration",
+        "Design d'interface",
+        "Programmation",
+        "Animation",
+        "Culture numérique et communication"
+      ]
+    },
+    {
+      "institution": "Université Laval",
+      "area": "Baccalauréat ",
+      "studyType": "Enseignement de la musique",
+      "startDate": "2010-09",
+      "endDate": "2014-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ceinture noire 2e dan en Karaté",
+      "date": "2008-04",
+      "awarder": "École de karaté Nor Budo",
+      "summary": "Suite à l'obtention de ma ceinture noire, j'ai entraîné les apprentis au côté de mon maître de karaté pendant 3 ans."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Intégration (Front-End)",
+      "level": "",
+      "keywords": [
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "name": "Design d'interface",
+      "level": "",
+      "keywords": [
+        "Illustrator",
+        "Photoshop",
+        "Muse",
+        "Sketch"
+      ]
+    },
+    {
+      "name": "Programmation (Back-End)",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Animation",
+      "level": "",
+      "keywords": [
+        "Animate"
+      ]
+    },
+    {
+      "name": "Français",
+      "level": "",
+      "keywords": [
+        "Excellente maîtrise à l'oral et à l'écrit ",
+        "TECFÉE  réussi"
+      ]
+    },
+    {
+      "name": "Anglais",
+      "level": "",
+      "keywords": [
+        "Avancé à l'oral et à l'écrit ",
+        "TOEIC réussi"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Musique",
+      "keywords": [
+        "Clarinettiste",
+        "EVPQ",
+        "Orchestre Select Start (OSS)",
+        "Genesis",
+        "Muse",
+        "Queen",
+        "Styx",
+        "Nikki Yanofsky",
+        "Chic Gamine",
+        "Cowboys Fringants",
+        "Rachmaninov",
+        "Dvorak",
+        "Chopin"
+      ]
+    },
+    {
+      "name": "Jeux Vidéos",
+      "keywords": [
+        "Mario",
+        "Zelda",
+        "Final Fantasy",
+        "Diablo II - III",
+        "Tomb Raider",
+        "Last of Us"
+      ]
+    },
+    {
+      "name": "Randonnées",
+      "keywords": []
+    },
+    {
+      "name": "Entraînement en salle",
+      "keywords": []
+    },
+    {
+      "name": "Dessin",
+      "keywords": []
+    },
+    {
+      "name": "Tricot",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Disponibles sur demande.",
+      "reference": ""
+    }
+  ]
+}
